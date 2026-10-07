@@ -1,1 +1,2 @@
-# Lottery-app
+This is my first repo
+author-Tushar deshwal
